@@ -38,7 +38,7 @@
 ---
 
 ### Submitting:
-- You can either fork this repository and add your code to the fork, or create your own repository; 
+- Create your own repository and add your code there; 
 - When you are done, send us a link to the repository where you added your solution, so we can check it out;
 - If you get stuck at some point, send what you did up to that point, and we will look at it;
 
